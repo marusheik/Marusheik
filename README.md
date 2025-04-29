@@ -19,6 +19,9 @@
   </p>
 </div>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages, frameworks, and tools I like using: 
+---
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,angular,css,django,electron,figma,flask,html,js,jquery,linux,mysql,nodejs,postgres,py,react,sass,threejs,vscode,wordpress" />
