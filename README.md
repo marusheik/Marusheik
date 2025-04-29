@@ -19,7 +19,7 @@
   </p>
 </div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Languages, frameworks, and tools I like using: 
+### <img src="https://www.tumblr.com/gifimagecollection/679599326379556864?source=share" width="50"> Languages, frameworks, and tools I like using: 
 ---
 
 <p align="left">
