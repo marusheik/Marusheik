@@ -5,11 +5,19 @@
 
 </p>
 
-<p>
-I'm a web developer with interests in both frontend and backend, and lately I've been diving into AI models as well. I've also developed mobile and desktop applications, and I really enjoy exploring different parts of the development stack.
-
-I have a (bad) habit of not sharing any of my projects online... but that's about to change. From now on, I’m aiming to be more active on GitHub and start documenting my work more consistently. This is the beginning of a new chapter :)
-</p>
+<div style="color: #CACACA; font-family: sans-serif;">
+  <p>
+    I'm a web developer with interests in both <strong>frontend</strong> and <strong>backend</strong>,
+    and lately I've been diving into <strong>AI models</strong> as well.
+    I've also developed <strong>mobile</strong> and <strong>desktop applications</strong>, and I really enjoy
+    exploring different parts of the development stack.
+  </p>
+  <p>
+    I have a (bad) habit of not sharing any of my projects online... but that's about to change.
+    From now on, I’m aiming to be more active on <strong>GitHub</strong> and start documenting my work
+    more consistently. This is the beginning of a <strong>new chapter</strong> :)
+  </p>
+</div>
 
 <p align="left">
   <a href="https://skillicons.dev">
