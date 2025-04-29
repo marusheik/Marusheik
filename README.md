@@ -19,7 +19,7 @@
   </p>
 </div>
 
-### <img src="https://www.tumblr.com/gifimagecollection/679599326379556864?source=share](https://64.media.tumblr.com/bf098767c4e656805f75d2901b82631f/e2ce1740293ba70a-cd/s500x750/e6acf2d3a1c844f6cf0818b737ed2b1a8d600eb1.gifv" width="50"> Languages, frameworks, and tools I like using: 
+### <img src="https://64.media.tumblr.com/bf098767c4e656805f75d2901b82631f/e2ce1740293ba70a-cd/s500x750/e6acf2d3a1c844f6cf0818b737ed2b1a8d600eb1.gif" width="50"> Languages, frameworks, and tools I like using: 
 ---
 
 <p align="left">
