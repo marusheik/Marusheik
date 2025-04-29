@@ -5,6 +5,12 @@
 
 </p>
 
+<p>
+I'm a web developer with interests in both frontend and backend, and lately I've been diving into AI models as well. I've also developed mobile and desktop applications, and I really enjoy exploring different parts of the development stack.
+
+I have a (bad) habit of not sharing any of my projects online... but that's about to change. From now on, I’m aiming to be more active on GitHub and start documenting my work more consistently. This is the beginning of a new chapter :)
+</p>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,angular,css,django,electron,figma,flask,html,js,jquery,linux,mysql,nodejs,postgres,py,react,sass,threejs,vscode,wordpress" />
