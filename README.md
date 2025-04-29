@@ -19,7 +19,7 @@
   </p>
 </div>
 
-### <img src="https://img1.picmix.com/output/stamp/normal/1/4/7/4/2704741_73fff.gif" width="70"> Languages, frameworks, and tools I like using: 
+### <img src="https://i.gifer.com/origin/cf/cffb69dea8656d32c4760a7edb2a435e_w200.gif" width="70"> Languages, frameworks, and tools I like using: 
 ---
 
 <p align="left">
