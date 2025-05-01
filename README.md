@@ -13,7 +13,7 @@
     exploring different parts of the development stack.
   </p>
   <p style="color: #CACACA;">
-    I have a (bad) habit of not sharing any of my projects online... but that's about to change.
+    I have a (bad) habit of not sharing any of my projects online, but that's about to change.
     From now on, I’m aiming to be more active on <strong>GitHub</strong> and start documenting my work
     more consistently. This is the beginning of a <strong>new chapter</strong> :)
   </p>
